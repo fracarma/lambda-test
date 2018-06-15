@@ -1,0 +1,8 @@
+{
+  "name": "hello-world-function",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::123689029439:role/hello-world-function_lambda_function",
+  "environment": {}
+}
